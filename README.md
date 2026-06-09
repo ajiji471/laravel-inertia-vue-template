@@ -28,3 +28,15 @@ for template
 
 # Generate key
     php artisan key:generate
+
+# running laravel
+    php artisan serve
+
+# running vite
+    npm run dev
+
+# Other
+how to start
+
+# Make Table
+    php artisan make:migration create_posts_table
