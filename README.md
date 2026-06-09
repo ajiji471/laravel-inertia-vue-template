@@ -2,15 +2,15 @@
 for template
 
 # Update composer
-        composer install
+    composer install
 
 # Update npm
-        npm install
+    npm install
 
 # Edit .env
 
 # Migrate
-        php artisan migrate
+    php artisan migrate
 
 # Generate key
-        php artisan key:generate
+    php artisan key:generate
