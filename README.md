@@ -38,5 +38,5 @@ for template
 # Other
 how to start
 
-# Make Table
-    php artisan make:migration create_posts_table
+# Make Model & Table
+    php artisan make:model post -m
